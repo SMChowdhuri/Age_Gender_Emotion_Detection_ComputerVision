@@ -62,5 +62,5 @@ Feel free to fork this repository, create a branch, and submit a pull request fo
 
 
 ## Contact
-For any queries, feel free to reach out at [your email].
+For any queries, feel free to reach out at [sumat4421@gmail.com].
 
