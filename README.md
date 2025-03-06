@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/age-gender-emotion-detection.git
+git clone https://github.com/SMChowdhuri/age-gender-emotion-detection.git
 cd age-gender-emotion-detection
 ```
 
